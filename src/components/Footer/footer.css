@@ -1,0 +1,37 @@
+.foot {
+    width: 100%;
+    padding-top: 20%;
+    display: flex;
+}
+
+.pust {
+    width: 20%
+}
+
+.hrefsfoot {
+    
+    width:40%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.int {
+width: 40%;
+padding-left: 5%;
+
+}
+
+.part {
+color: hwb(0 54% 46%);
+text-decoration: none;
+}
+
+.dev {
+    color: hwb(0 54% 46%);
+    text-decoration: none;
+}
+
+.vak {
+    color: hwb(0 54% 46%);
+    text-decoration: none;
+}

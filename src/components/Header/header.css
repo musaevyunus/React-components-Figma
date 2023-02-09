@@ -1,0 +1,37 @@
+
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hrefshead {
+    display: flex;
+    justify-content: space-evenly;
+   
+   font-size: 22px;
+   
+   
+}
+
+.hrefs{
+    width: 35%;
+    
+    
+}
+
+.glavhref {
+    color: blue;
+    text-decoration: none;
+}
+
+.onashref {
+    color: blue;
+    text-decoration: none;
+}
+
+.konthref {
+    color: blue;
+    text-decoration: none;
+}
